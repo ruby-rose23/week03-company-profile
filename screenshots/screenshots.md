@@ -68,5 +68,3 @@ Browser Output
 <img width="975" height="515" alt="image" src="https://github.com/user-attachments/assets/c8fe2914-20c9-4325-be7d-c533a7fdfdb8" />
 
  
-Browser Output
- 
