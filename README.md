@@ -1,5 +1,6 @@
 TeachPeak Solutions
 
+
 Introduction
 
 A Company Profile Website contains information, platforms, and services about their business. Businesses need one because it helps them introduce their company online to gain clients, employees, and business partners. The purpose of the project is to let everyone know who's looking for a job, business partners, or general inquiries about the company. The project helps both the company and individuals find the exact field they need.
