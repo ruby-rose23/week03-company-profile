@@ -30,9 +30,10 @@ MVC or Modal View Controller is a software design pattern that separate an appli
 -The advantage of MVC in software development, the code is more organized and easier to maintain it also views can be changed without touching business logic. Controllers and models are independently testable.
 
 
-Include a simple diagram such as:
+Architecture Diagram
 
-<img width="297" height="637" alt="image" src="https://github.com/user-attachments/assets/5e444071-8df2-4014-9c2e-05654cd11968" />
+<img width="456" height="723" alt="image" src="https://github.com/user-attachments/assets/6e43a00c-220a-4fbe-989d-3036981242f0" />
+
 
 -----
 
