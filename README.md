@@ -1,4 +1,4 @@
-TeachPeak 
+TeachPeak Solutions
 
 Introduction
 
