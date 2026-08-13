@@ -23,11 +23,11 @@ MVC or Modal View Controller is a software design pattern that separate an appli
 
 • Why Laravel uses MVC?
 
-- Laravel uses MVC because it enforces a clean separation of concerns. Each layer has one responsibility, making the codebase easier to read, maintain, and scale.
+-Laravel uses MVC because it enforces a clean separation of concerns. Each layer has one responsibility, making the codebase easier to read, maintain, and scale.
 
 • Advantages of MVC in software development.
 
-- The advantage of MVC in software development, the code is more organized and easier to maintain it also views can be changed without touching business logic. Controllers and models are independently testable.
+-The advantage of MVC in software development, the code is more organized and easier to maintain it also views can be changed without touching business logic. Controllers and models are independently testable.
 
 
 Include a simple diagram such as:
@@ -52,11 +52,11 @@ Laravel Routing
 
 • What is Routing?
 
-- Routing is a mechanism that maps an incoming HTTP request URL to a specific controller method or closure.
+-Routing is a mechanism that maps an incoming HTTP request URL to a specific controller method or closure.
   
 • Named Routes
 
-- Named routes allow to generate URLs or redirects by a name instead of a hardcoded path.
+-Named routes allow to generate URLs or redirects by a name instead of a hardcoded path.
   
 • GET Requests
 
@@ -78,7 +78,7 @@ Controllers
 
 • Benefits of Controllers
 
-- The benefits of controllers one it keeps the routes file clean and minimal, two centralizes page logic in one place, three it makes it easy to pass data ti views, and four last it supports grouping related actions.
+-The benefits of controllers one it keeps the routes file clean and minimal, two centralizes page logic in one place, three it makes it easy to pass data ti views, and four last it supports grouping related actions.
 
 • Controller Methods
 
