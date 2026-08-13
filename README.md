@@ -74,7 +74,7 @@ Controllers
 -Controller methods are the individual functions inside the controller class. Each method handles one specific page.
 
 
- <img width="975" height="599" alt="image" src="https://github.com/user-attachments/assets/78b5753e-de49-4fed-8c17-e1b84f8fd130" />
+ <img width="1458" height="906" alt="image" src="https://github.com/user-attachments/assets/3247f796-5b04-4499-95f9-d314467bf3c3" />
 
 ------
 
