@@ -72,7 +72,9 @@ Controllers
 • Controller Methods
 
 -Controller methods are the individual functions inside the controller class. Each method handles one specific page.
-Include screenshots of CompanyController.php
+
+
+ <img width="975" height="599" alt="image" src="https://github.com/user-attachments/assets/78b5753e-de49-4fed-8c17-e1b84f8fd130" />
 
 ------
 
