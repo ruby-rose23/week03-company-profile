@@ -32,19 +32,7 @@ MVC or Modal View Controller is a software design pattern that separate an appli
 
 Include a simple diagram such as:
 
-Browser
- │
- ▼
-Route (web.php)
- │
- ▼
-Controller (CompanyController.php)
- │
- ▼
-Blade View (pages/services.blade.php
- │
- ▼
-Response to Browser
+<img width="297" height="637" alt="image" src="https://github.com/user-attachments/assets/5e444071-8df2-4014-9c2e-05654cd11968" />
 
 -----
 
